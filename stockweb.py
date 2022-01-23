@@ -140,4 +140,4 @@ if st.button("Predict"):
 
     
 ##### check for run successfully
-print('hello') 
+#print('hello') 
